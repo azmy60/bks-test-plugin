@@ -1,0 +1,9 @@
+{
+	"id": "sample-plugin",
+	"name": "Sample Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "5",
+    "description": "This is a sample plugin",
+    "author": "Beekeeper Studio",
+	"authorUrl": "https://beekeeperstudio.io",
+}
