@@ -1,7 +1,7 @@
-class SamplePlugin {
+class TestPlugin {
   initialize() {
-    console.log("Sample plugin initialized");
+    console.log("Test plugin initialized");
   }
 }
 
-export default SamplePlugin;
+export default TestPlugin;

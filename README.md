@@ -1,3 +1,3 @@
-# Beekeeper Studio Sample Plugin
+# Beekeeper Studio Test Plugin
 
-This is a sample plugin for Beekeeper Studio
+This is a test plugin for Beekeeper Studio
