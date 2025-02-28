@@ -1,7 +1,7 @@
 {
 	"id": "test-plugin",
 	"name": "Test Plugin",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "5",
     "description": "This is a test plugin",
     "author": "Beekeeper Studio",
